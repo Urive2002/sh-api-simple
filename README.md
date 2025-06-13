@@ -46,7 +46,7 @@ cd sh-api-simple
 npm install
 
 # Start development server
-node index.js / node .
+node index.js # node .
 ```
 
 ### Usage
