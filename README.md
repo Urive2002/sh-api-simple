@@ -15,6 +15,21 @@
   </p>
 </div>
 
+> **The Ultimate Free Node.js REST API Starter Kit** 🚀
+> 
+> Perfect base template for building powerful APIs with AI integration, 
+> canvas generation, and auto-documentation.
+
+## Why Choose Shiina API Base?
+
+✅ **100% Free & Open Source**  
+✅ **Production Ready**  
+✅ **AI Integration Built-in**  
+✅ **Auto Swagger Documentation**  
+✅ **Canvas & Image Generation**  
+✅ **Hot Reload Development**  
+✅ **Zero Configuration Setup**
+
 ---
 
 ## ✨ Features
@@ -164,23 +179,6 @@ The API automatically generates Swagger JSON documentation with:
 - Real-time status updates
 
 Access the documentation at `http://localhost:3000/` endpoint.
-
-# 🌸 Shiina - Free REST API Base Template
-
-> **The Ultimate Free Node.js REST API Starter Kit** 🚀
-> 
-> Perfect base template for building powerful APIs with AI integration, 
-> canvas generation, and auto-documentation.
-
-## Why Choose Shiina API Base?
-
-✅ **100% Free & Open Source**  
-✅ **Production Ready**  
-✅ **AI Integration Built-in**  
-✅ **Auto Swagger Documentation**  
-✅ **Canvas & Image Generation**  
-✅ **Hot Reload Development**  
-✅ **Zero Configuration Setup**
 
 ## 🛡️ Security & Usage
 
