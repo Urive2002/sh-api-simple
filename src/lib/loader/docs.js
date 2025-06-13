@@ -1,4 +1,5 @@
 require("../../../configs")
+let SH = require("../../../configs").SH()
 /**
  * Copyright © 2025 [ balxzzy ]
  *
@@ -14,15 +15,15 @@ require("../../../configs")
 
 function generateApiDocs(dir) {
     const apiDocs = {
-        "name": SH().name,
-        "version": SH().version,
-        "description": SH().description,
-        "bannerImage": SH().banner,
+        "name": SH.name,
+        "version": SH.version,
+        "description": SH.description,
+        "bannerImage": SH.banner,
         "header": {
-            "status": SH().status
+            "status": SH.status
         },
         "apiSettings": {
-            "creator": SH().creator
+            "creator": SH.creator
         },
         "categories": []
     }
@@ -59,7 +60,7 @@ function generateApiDocs(dir) {
                         name: route.name,
                         desc: route.description,
                         path: route.path,
-                        status: route.isDisable ? "Offline" : SH().status,
+                        status: route.isDisable ? "Offline" : SH.status,
                         example: route.example || "No example provided",
                         /*params: {
                             [paramName]: `Parameter ${paramName} dibutuhkan`
