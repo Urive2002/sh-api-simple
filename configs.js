@@ -18,7 +18,7 @@ const chalk = require("chalk")
 const open = require("open")
 const axios = require("axios")
 
-const SH = () => ({
+exports.SH = () => ({
     name: "SH - API",
     version: "1.0.0",
     description: "SHIINA is a free, simple REST API created by balxzzy for the common good. Feel free to use it, but please avoid DDoS attacks.",
