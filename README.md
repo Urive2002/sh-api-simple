@@ -218,5 +218,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
     <em>Feel free to use it, but please use it responsibly!</em>
   </p>
   
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWOZ8E_f1kcLhy8j-ka4GIw-FL_8oyXNPcAwIgXrgBHUia4p3paM8_KFyasXcZLqo_g3TQfe5Eg-0BS6hJPZzF2m2pvUuKEfwKP1sZvbu6_xTDelrlwl4G-MBKqhGppvMzsaZGGy8pMuCjSjdrFunk-y0Af1K6I0ldsb9FSY3ZFMI-isIePJo8_qNLT1c/s1600/1000396294.png" alt="Footer Image" width="400"/>
+  <img src="https://files.catbox.moe/mbeerk.jpg" alt="Footer Image" width="400"/>
 </div>
