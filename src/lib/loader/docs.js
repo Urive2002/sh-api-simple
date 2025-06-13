@@ -1,5 +1,5 @@
 require("../../../configs")
-let SH = require("../../../configs").SH()
+let SH = require("../../../configs")
 /**
  * Copyright © 2025 [ balxzzy ]
  *
