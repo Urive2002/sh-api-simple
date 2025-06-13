@@ -18,7 +18,7 @@ const chalk = require("chalk")
 const open = require("open")
 const axios = require("axios")
 
-exports.SH = () => ({
+const SH = () => ({
     name: "SH - API",
     version: "1.0.0",
     description: "SHIINA is a free, simple REST API created by balxzzy for the common good. Feel free to use it, but please avoid DDoS attacks.",
@@ -26,7 +26,8 @@ exports.SH = () => ({
     status: "online.",
     creator: "balxzzy"
 })
-
+//console.log(SH())
+module.exports = SH()
 global.path = path
 global.fs = fs
 global.chalk = chalk 
