@@ -51,7 +51,7 @@ exports.loadRoutes = async function loadRoutes(dir) {
                         path.join(__dirname, "../scraper")
                     )
                     //console.log(scrap)
-                    let config = require("../../../configs").SH()
+                    let config = require("../../../configs")
                     code(req, res, { axios, scrap, config })
                 } catch (e) {
                     console.error(chalk.red(`${file}\n${e}`))
